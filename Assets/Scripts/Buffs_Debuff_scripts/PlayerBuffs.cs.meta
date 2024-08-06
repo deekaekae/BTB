@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2153a54cc1a9543a983639bc0a92b3ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buffPanel: {fileID: 4259598724434817243, guid: 79a69c584684443998ba1ade11755380, type: 3}
+  - debuffPanel: {fileID: 8843507414994293252, guid: 624848202bd684db69cc86f36fdb5c1a, type: 3}
+  - buffTextTemplate: {fileID: 6427094369441496526, guid: f0b98b7ad61104df19c2e995bb22d642, type: 3}
+  - debuffTextTemplate: {fileID: 269118521853441515, guid: 9c788f71f846f476da8ee96528b6928c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
